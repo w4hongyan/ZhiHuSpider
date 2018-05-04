@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="referrer" content="never">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <title>@ViewBag.title</title>
+</head>
+<body>
+    <div class="blog-masthead">
+        <div class="container">
+            <nav class="blog-nav">
+                <a class="blog-nav-item active" href="#">Home</a>
+                <a class="blog-nav-item" href="#">New features</a>
+                <a class="blog-nav-item" href="#">Press</a>
+                <a class="blog-nav-item" href="#">New hires</a>
+                <a class="blog-nav-item" href="#">About</a>
+            </nav>
+        </div>
+    </div>
+    @RenderBody()
+
+    <footer class="blog-footer">
+        <p>
+            Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by
+        </p>
+        <p>
+            <a href="#">Back to top</a>
+        </p>
+    </footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="~/Content/jquery.lazyload.min.js"></script>
+    <script src="~/Scripts/utils.js"></script>
+    @RenderSection("js", false);
+</body>
+</html>

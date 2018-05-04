@@ -1,0 +1,11 @@
+E:\Code\ZhiHuSpider\Model\bin\Debug\Model.dll
+E:\Code\ZhiHuSpider\Model\bin\Debug\Model.pdb
+E:\Code\ZhiHuSpider\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Code\ZhiHuSpider\Model\obj\Debug\Model.dll
+E:\Code\ZhiHuSpider\Model\obj\Debug\Model.pdb
+E:\PersonCode\ZhiHuSpider\Model\bin\Debug\Model.dll
+E:\PersonCode\ZhiHuSpider\Model\bin\Debug\Model.pdb
+E:\PersonCode\ZhiHuSpider\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\PersonCode\ZhiHuSpider\Model\obj\Debug\Model.dll
+E:\PersonCode\ZhiHuSpider\Model\obj\Debug\Model.pdb
+E:\PersonCode\ZhiHuSpider\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
